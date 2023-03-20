@@ -28,4 +28,4 @@ for (i = 0; i < allStudents.length; i += 1){
 }
 
 console.log(`number of students who are over age is ${overAge.length}, and under age is ${underAge.length}`);//when we print the length of each array
-//we see how many students have the array
+//we see how many students have the array and finish
